@@ -1,6 +1,8 @@
 #==============================================================
 # Time stamps for each phone with LM
 #==============================================================
+. cmd.sh
+. run.sh
 
 online2-wav-nnet3-latgen-faster \
       --online=false \
